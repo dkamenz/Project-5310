@@ -1,67 +1,64 @@
 import json
 import csv
 
-def extract_city_state(street):
-    """
-    gets city and state from an address formatted like:
-    '123 Main St, Honolulu, HI 96826'
-    """
-    if not street:
-        return "", ""
 
-    parts = [p.strip() for p in street.split(",")]
+input_file = "data/zillow_scraped.json" 
+output_file = "data/apts_2025_raw.csv"
 
-    # Need at least 3 parts to extract city/state
-    if len(parts) < 3:
-        return "", ""
-
-    # city is second last element
-    city = parts[-2]
-
-    # state is first token in the last element (before ZIP)
-    state_zip = parts[-1].split()
-    state = state_zip[0] if state_zip else ""
-
-    return city, state.upper()
-
-
-with open("zillow_scraped.json", "r") as f:
+with open(input_file, "r", encoding="utf-8") as f:
     data = json.load(f)
 
-rows = data["results"]
 
 columns = [
-    "price",
-    "bedrooms",
-    "dwell_type",
-    "street",
-    "neighborhood",
-    "furniture",
-    "title",
-    "square_feet",
+    "zpid",
+    "address",
     "cityname",
-    "state"
+    "state",
+    "zipcode",
+    "latitude",
+    "longitude",
+    "title",
+    "listingStatus",
+    "minPrice",
+    "maxPrice",
+    "bedrooms"
 ]
 
-with open("apartments.csv", "w", newline="", encoding="utf-8") as f:
+rows = []
+
+for item in data.get("searchResults", []):
+    prop = item["property"]
+
+    base = {
+        "zpid": prop.get("zpid"),
+        "address": prop.get("address", {}).get("streetAddress"),
+        "cityname": prop.get("address", {}).get("city"),
+        "state": prop.get("address", {}).get("state"),
+        "zipcode": prop.get("address", {}).get("zipcode"),
+        "latitude": prop.get("location", {}).get("latitude"),
+        "longitude": prop.get("location", {}).get("longitude"),
+        "title": prop.get("title"),
+        "listingStatus": prop.get("listingStatus"),
+        "minPrice": prop.get("minPrice"),
+        "maxPrice": prop.get("maxPrice"),
+    }
+
+    units = prop.get("unitsGroup", [])
+
+    if units:
+        for unit in units:
+            row = base.copy()
+            row["bedrooms"] = unit.get("bedrooms")
+            row["minPrice"] = unit.get("minPrice", row["minPrice"])
+            rows.append(row)
+    else:
+        row = base.copy()
+        row["bedrooms"] = None
+        rows.append(row)
+
+with open(output_file, "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=columns)
     writer.writeheader()
+    writer.writerows(rows)
 
-    for row in rows:
-        out = {}
-
-        # copy direct fields
-        for col in columns:
-            if col not in ("square_feet", "city", "state"):
-                out[col] = row.get(col, "")
-
-        # square_feet gotten from "size"
-        out["square_feet"] = row.get("size", "")
-
-        # get city/state from street
-        city, state = extract_city_state(row.get("street", ""))
-        out["cityname"] = city
-        out["state"] = state
-
-        writer.writerow(out)
-
+print(f"CSV created: {output_file} ({len(rows)} rows)")
