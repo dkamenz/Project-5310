@@ -1,7 +1,6 @@
 import json
 import csv
 
-
 input_file = "data/zillow_scraped.json" 
 output_file = "data/apts_2025_raw.csv"
 
@@ -18,9 +17,10 @@ columns = [
     "latitude",
     "longitude",
     "title",
-    "listingStatus",
-    "minPrice",
-    "maxPrice",
+    "listing_status",
+    "square_feet",
+    "min_price",
+    "max_price",
     "bedrooms"
 ]
 
@@ -38,24 +38,31 @@ for item in data.get("searchResults", []):
         "latitude": prop.get("location", {}).get("latitude"),
         "longitude": prop.get("location", {}).get("longitude"),
         "title": prop.get("title"),
-        "listingStatus": prop.get("listingStatus"),
-        "minPrice": prop.get("minPrice"),
-        "maxPrice": prop.get("maxPrice"),
+        "listing_status": prop.get("listing", {}).get("listingStatus"),
+        "min_price": prop.get("price", {}).get("value") or prop.get("minPrice"),
+        "max_price": prop.get("price", {}).get("value") or prop.get("maxPrice"),
     }
 
     units = prop.get("unitsGroup", [])
 
+    
     if units:
         for unit in units:
             row = base.copy()
+            row["square_feet"] = unit.get("livingArea") or prop.get("livingArea")
             row["bedrooms"] = unit.get("bedrooms")
-            row["minPrice"] = unit.get("minPrice", row["minPrice"])
+            row["min_price"] = unit.get("minPrice", row["min_price"])
+            row["max_price"] = unit.get("maxPrice", row["max_price"])
             rows.append(row)
+
+
     else:
         row = base.copy()
-        row["bedrooms"] = None
+        row["square_feet"] = prop.get("livingArea") 
+        row["bedrooms"] = prop.get("bedrooms")
         rows.append(row)
 
+# Write CSV
 with open(output_file, "w", newline="", encoding="utf-8") as f:
     writer = csv.DictWriter(f, fieldnames=columns)
     writer.writeheader()
