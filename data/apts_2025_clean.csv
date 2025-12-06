@@ -176,7 +176,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 456878606,1339 E St SE,Washington,DC,20003,38.882587,-76.986694,The Lockwood,,2214,0
 456878606,1339 E St SE,Washington,DC,20003,38.882587,-76.986694,The Lockwood,,2257,1
 456878606,1339 E St SE,Washington,DC,20003,38.882587,-76.986694,The Lockwood,,4414,2
-456878606,1339 E St SE,Washington,DC,20003,38.882587,-76.986694,The Lockwood,,5122,3
 458665997,21 Windsor Way,Red Lion,PA,17356,39.920696,-76.62489,Windsor Commons,,2200,2
 458665997,21 Windsor Way,Red Lion,PA,17356,39.920696,-76.62489,Windsor Commons,,1975,3
 2059851902,1 Marlbrook Ln,Lansdale,PA,19446,40.224396,-75.30553,Willowyck,,2052,1
@@ -210,7 +209,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 450870765,40 N St NE,Washington,DC,20002,38.907085,-77.011826,Tribeca NOMA,,2677,2
 446203611,170 W Independence Mall S,Philadelphia,PA,19106,39.94818,-75.15181,Lyndon at the Curtis,,2300,1
 446203611,170 W Independence Mall S,Philadelphia,PA,19106,39.94818,-75.15181,Lyndon at the Curtis,,3600,2
-446203611,170 W Independence Mall S,Philadelphia,PA,19106,39.94818,-75.15181,Lyndon at the Curtis,,7150,3
 458606868,2300 Hadley Blvd,Enola,PA,17025,40.29064,-76.96797,Hadley Place Apartments,,1803,2
 458606868,2300 Hadley Blvd,Enola,PA,17025,40.29064,-76.96797,Hadley Place Apartments,,2472,4
 457872318,6174 Ridge Ave,Philadelphia,PA,19128,40.035084,-75.21737,Parkline,,1495,1
@@ -327,7 +325,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2086548454,2 I St SE,Washington,DC,20003,38.87973,-77.00837,NOVEL South Capitol,,1970,0
 2086548454,2 I St SE,Washington,DC,20003,38.87973,-77.00837,NOVEL South Capitol,,2160,1
 2086548454,2 I St SE,Washington,DC,20003,38.87973,-77.00837,NOVEL South Capitol,,2805,2
-2086548454,2 I St SE,Washington,DC,20003,38.87973,-77.00837,NOVEL South Capitol,,5156,3
 2110585680,509 Vine St,Philadelphia,PA,19106,39.956524,-75.14803,The Lofts at 509 Vine,,1458,1
 348319974,35205 Tupelo Cir,Frankford,DE,19945,38.52822,-75.143166,Ascend by the Sea,,1815,1
 348319974,35205 Tupelo Cir,Frankford,DE,19945,38.52822,-75.143166,Ascend by the Sea,,2110,2
@@ -357,7 +354,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2077842471,949 1st St SE,Washington,DC,20003,38.878872,-77.00605,Crossing DC,,2037,0
 2077842471,949 1st St SE,Washington,DC,20003,38.878872,-77.00605,Crossing DC,,2233,1
 2077842471,949 1st St SE,Washington,DC,20003,38.878872,-77.00605,Crossing DC,,3608,2
-2077842471,949 1st St SE,Washington,DC,20003,38.878872,-77.00605,Crossing DC,,5837,3
 2093284653,229 Saint David Ct,Cockeysville,MD,21030,39.47127,-76.63506,Hampton Manor Apartments & Townhomes,,1634,1
 2093284653,229 Saint David Ct,Cockeysville,MD,21030,39.47127,-76.63506,Hampton Manor Apartments & Townhomes,,1864,2
 2093284653,229 Saint David Ct,Cockeysville,MD,21030,39.47127,-76.63506,Hampton Manor Apartments & Townhomes,,2475,3
@@ -387,7 +383,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2080147300,71 Potomac Ave SE,Washington,DC,20003,38.871063,-77.00757,Maren,,1835,0
 2080147300,71 Potomac Ave SE,Washington,DC,20003,38.871063,-77.00757,Maren,,2057,1
 2080147300,71 Potomac Ave SE,Washington,DC,20003,38.871063,-77.00757,Maren,,3785,2
-2080147300,71 Potomac Ave SE,Washington,DC,20003,38.871063,-77.00757,Maren,,5614,3
 458700222,27 E Central Ave,Paoli,PA,19301,40.044144,-75.47915,Paoli Place North Apartments,,1897,1
 458700222,27 E Central Ave,Paoli,PA,19301,40.044144,-75.47915,Paoli Place North Apartments,,2107,2
 2097969490,1 Drayson Way,Richmond,VA,23226,37.595646,-77.51928,The Estates at Horsepen,,1528,1
@@ -771,7 +766,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 457231265,602 N Morton St,Bloomington,IN,47404,39.17197,-86.53593,TCV,,1738,1
 457231265,602 N Morton St,Bloomington,IN,47404,39.17197,-86.53593,TCV,,2790,3
 457231265,602 N Morton St,Bloomington,IN,47404,39.17197,-86.53593,TCV,,3400,4
-457231265,602 N Morton St,Bloomington,IN,47404,39.17197,-86.53593,TCV,,5000,5
 456968484,72 Van Mark Way,Saint Louis,MO,63144,38.613106,-90.34532,Brentwood Place,,1006,1
 456968484,72 Van Mark Way,Saint Louis,MO,63144,38.613106,-90.34532,Brentwood Place,,1122,2
 456968484,72 Van Mark Way,Saint Louis,MO,63144,38.613106,-90.34532,Brentwood Place,,1984,3
@@ -939,7 +933,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 349877122,12800 SE 7th St,Vancouver,WA,98683,45.61665,-122.54159,Passage,,1549,2
 349877122,12800 SE 7th St,Vancouver,WA,98683,45.61665,-122.54159,Passage,,2099,3
 2054944600,1821 SE Minter Bridge Rd,Hillsboro,OR,97123,45.506203,-122.962326,Minter Bridge Square,,1345,1
-425140047,538 Lakeside Ave S #1B-1BA-683SQFT,Seattle,WA,98144,47.596714,-122.2867,"Lakefront on Washington, 1 Bed 1 Bath 683",683.0,5000,1
 2066692222,2120 NE Thorncroft Dr,Hillsboro,OR,97124,45.53672,-122.87551,Thorncroft Farms Apartments,,1571,1
 2066692222,2120 NE Thorncroft Dr,Hillsboro,OR,97124,45.53672,-122.87551,Thorncroft Farms Apartments,,1752,2
 2066692222,2120 NE Thorncroft Dr,Hillsboro,OR,97124,45.53672,-122.87551,Thorncroft Farms Apartments,,2262,3
@@ -1405,7 +1398,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2062687459,18931 E Briargate Ln,Parker,CO,80134,39.519623,-104.76788,Briargate on Main,,1362,1
 2062687459,18931 E Briargate Ln,Parker,CO,80134,39.519623,-104.76788,Briargate on Main,,1968,2
 2062687459,18931 E Briargate Ln,Parker,CO,80134,39.519623,-104.76788,Briargate on Main,,2822,3
-2089142819,1012 University Ave APT 4,Boulder,CO,80302,40.010296,-105.27947,"University Hill Apartments, 1012 University",,5250,3
 2070788126,4977 Moorhead Ave,Boulder,CO,80305,39.987045,-105.23714,Coronado Apartments,,1450,1
 2070788126,4977 Moorhead Ave,Boulder,CO,80305,39.987045,-105.23714,Coronado Apartments,,1695,2
 453370155,333 N Lincoln St,Denver,CO,80203,39.721558,-104.986565,333 North Lincoln Street,,1050,1
@@ -1677,7 +1669,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2075193551,949 Marine St,Boulder,CO,80302,40.01249,-105.28196,View House,,2450,1
 2075193551,949 Marine St,Boulder,CO,80302,40.01249,-105.28196,View House,,1800,2
 2075193551,949 Marine St,Boulder,CO,80302,40.01249,-105.28196,View House,,4600,3
-2075193551,949 Marine St,Boulder,CO,80302,40.01249,-105.28196,View House,,10635,6
 351261584,4920 Thunderbird Cir,Boulder,CO,80303,39.988644,-105.23374,4920 Thunderbird Cir,,1330,1
 2056207118,1424 N Pearl St,Denver,CO,80203,39.738945,-104.97957,The Brougham,,999,0
 2056207118,1424 N Pearl St,Denver,CO,80203,39.738945,-104.97957,The Brougham,,1098,1
@@ -1736,7 +1727,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 454210209,12512 Sabal Point Dr,Pineville,NC,28134,35.07709,-80.88499,Sabal Point,,1275,3
 458699342,1030 Seminole Dr,Fort Lauderdale,FL,33304,26.138811,-80.11026,Sunrise Harbor,,2458,1
 458699342,1030 Seminole Dr,Fort Lauderdale,FL,33304,26.138811,-80.11026,Sunrise Harbor,,4303,2
-458699342,1030 Seminole Dr,Fort Lauderdale,FL,33304,26.138811,-80.11026,Sunrise Harbor,,5997,3
 457248539,1201 Currybury Dr #702,Madison,GA,30650,33.595894,-83.46686,"Carmichael Commons, Two Bedroom",974.0,970,2
 448025857,19401 W Dixie Hwy,Miami,FL,33180,25.954409,-80.148476,Avida Aventura,,2255,0
 448025857,19401 W Dixie Hwy,Miami,FL,33180,25.954409,-80.148476,Avida Aventura,,2695,1
@@ -1751,11 +1741,8 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 348738670,2798 Saint Johns Ave,Jacksonville,FL,32205,30.30545,-81.6938,Riviera Park,,1979,3
 2085082837,240 NW 25th St,Miami,FL,33127,25.800396,-80.20014,Wynwood 25,,2302,0
 2085082837,240 NW 25th St,Miami,FL,33127,25.800396,-80.20014,Wynwood 25,,2650,1
-2085082837,240 NW 25th St,Miami,FL,33127,25.800396,-80.20014,Wynwood 25,,7102,2
-2085082837,240 NW 25th St,Miami,FL,33127,25.800396,-80.20014,Wynwood 25,,4895,3
 447299167,555 NE 34th St,Miami,FL,33137,25.809088,-80.186386,The Hamilton Apartments,,3662,1
 447299167,555 NE 34th St,Miami,FL,33137,25.809088,-80.186386,The Hamilton Apartments,,4850,2
-447299167,555 NE 34th St,Miami,FL,33137,25.809088,-80.186386,The Hamilton Apartments,,7988,3
 457261458,4501 Holly Springs Pkwy,Canton,GA,30115,34.149582,-84.510704,Linz Holly Springs,,1444,1
 457261458,4501 Holly Springs Pkwy,Canton,GA,30115,34.149582,-84.510704,Linz Holly Springs,,1989,2
 2054530122,115 Beaumont Oaks Dr,Wilmington,NC,28411,34.301804,-77.78694,Beaumont Oaks at Porters Neck Apartments & Townhomes,,1191,1
@@ -1874,7 +1861,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2057593513,1395 Towne Centre Village Dr,McDonough,GA,30253,33.459686,-84.22035,Mandalay Villas,,1556,2
 2057593513,1395 Towne Centre Village Dr,McDonough,GA,30253,33.459686,-84.22035,Mandalay Villas,,1904,3
 458029709,716 Oyster Isle Dr,Charleston,SC,29492,32.87096,-79.92085,Fenland Townhomes,,4850,3
-458029709,716 Oyster Isle Dr,Charleston,SC,29492,32.87096,-79.92085,Fenland Townhomes,,5400,4
 458262150,3893 Kensington Rd #9477640C1,Decatur,GA,30032,33.766037,-84.2368,"kenridge, B2-PR",,1299,2
 452127687,3005 Chestnut Grove Ln,Matthews,NC,28104,35.063614,-80.72836,Chestnut Farm,,1475,1
 452127687,3005 Chestnut Grove Ln,Matthews,NC,28104,35.063614,-80.72836,Chestnut Farm,,1952,2
@@ -1933,7 +1919,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2080737750,100 NW 6th St,Miami,FL,33136,25.779612,-80.19579,ParkLine Miami,,2185,0
 2080737750,100 NW 6th St,Miami,FL,33136,25.779612,-80.19579,ParkLine Miami,,2735,1
 2080737750,100 NW 6th St,Miami,FL,33136,25.779612,-80.19579,ParkLine Miami,,3690,2
-2080737750,100 NW 6th St,Miami,FL,33136,25.779612,-80.19579,ParkLine Miami,,4875,3
 458658995,8 Villa Dr,Pensacola,FL,32506,30.404118,-87.31591,Villas West Apartments,,1400,2
 440811560,49 Lania Shore Way,Hampstead,NC,28443,34.367607,-77.71019,Hawthorne at Hampstead,,1530,1
 440811560,49 Lania Shore Way,Hampstead,NC,28443,34.367607,-77.71019,Hawthorne at Hampstead,,1649,2
@@ -1974,7 +1959,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 347333102,5420 Buford Hwy,Norcross,GA,30071,33.94571,-84.20096,The Clara by Broadstone,,1899,2
 2093752387,333 E Palmetto Park Rd,Boca Raton,FL,33432,26.35084,-80.07992,Palmetto Promenade,,2435,1
 2093752387,333 E Palmetto Park Rd,Boca Raton,FL,33432,26.35084,-80.07992,Palmetto Promenade,,3914,2
-2093752387,333 E Palmetto Park Rd,Boca Raton,FL,33432,26.35084,-80.07992,Palmetto Promenade,,5917,3
 458701463,15902 Spyglass Ter,Hudson,FL,34667,28.388529,-82.678085,The Park at Chelsea,,1650,2
 458701463,15902 Spyglass Ter,Hudson,FL,34667,28.388529,-82.678085,The Park at Chelsea,,1910,3
 458684515,4701 Luminous Loop,Kissimmee,FL,34746,28.3457,-81.47061,Integra Sunrise Parc,,1425,1
@@ -2061,7 +2045,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2080797011,855 Central Ave,Saint Petersburg,FL,33701,27.77188,-82.64643,Camden Central,,4699,3
 457045271,710 NE 1st Ave,Miami,FL,33132,25.781498,-80.192604,Miami World Tower,,2350,0
 457045271,710 NE 1st Ave,Miami,FL,33132,25.781498,-80.192604,Miami World Tower,,3150,1
-457045271,710 NE 1st Ave,Miami,FL,33132,25.781498,-80.192604,Miami World Tower,,6030,2
 458690896,430 Manufacturers Rd,Chattanooga,TN,37405,35.06184,-85.31413,The Linden,,1390,0
 458690896,430 Manufacturers Rd,Chattanooga,TN,37405,35.06184,-85.31413,The Linden,,1720,1
 458690896,430 Manufacturers Rd,Chattanooga,TN,37405,35.06184,-85.31413,The Linden,,2395,2
@@ -2235,11 +2218,9 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 458691770,3000 NE 2nd Ave,Miami,FL,33137,25.80514,-80.1912,AMLI Midtown Miami,,2870,0
 458691770,3000 NE 2nd Ave,Miami,FL,33137,25.80514,-80.1912,AMLI Midtown Miami,,3223,1
 458691770,3000 NE 2nd Ave,Miami,FL,33137,25.80514,-80.1912,AMLI Midtown Miami,,4173,2
-458691770,3000 NE 2nd Ave,Miami,FL,33137,25.80514,-80.1912,AMLI Midtown Miami,,5225,3
 458037698,1000 Gables Way,Atlanta,GA,30329,33.832077,-84.32163,One K,,1594,2
 2054226549,5250 NW 84th Ave,Miami,FL,33166,25.819046,-80.33488,The Palma at Downtown Doral,,2535,1
 2054226549,5250 NW 84th Ave,Miami,FL,33166,25.819046,-80.33488,The Palma at Downtown Doral,,3403,2
-2054226549,5250 NW 84th Ave,Miami,FL,33166,25.819046,-80.33488,The Palma at Downtown Doral,,5371,3
 2080815796,2085 Roswell Rd,Marietta,GA,30062,33.970234,-84.49129,Cortland East Cobb,,1396,1
 2080815796,2085 Roswell Rd,Marietta,GA,30062,33.970234,-84.49129,Cortland East Cobb,,1697,2
 2080815796,2085 Roswell Rd,Marietta,GA,30062,33.970234,-84.49129,Cortland East Cobb,,1921,3
@@ -2284,13 +2265,8 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 457080301,11102 Caminito Alvarez,San Diego,CA,92126,32.907696,-117.16787,IMT Sorrento Valley,,2665,2
 2089238446,3130 N Hayden Rd,Scottsdale,AZ,85251,33.483624,-111.91028,Dusk Scottsdale Apartments,,2300,2
 2062329350,2700 W El Camino Real,Mountain View,CA,94040,37.40427,-122.117004,MV Apartments,,3730,1
-2062329350,2700 W El Camino Real,Mountain View,CA,94040,37.40427,-122.117004,MV Apartments,,4864,2
 2091552818,185 Channel St,San Francisco,CA,94158,37.77439,-122.39022,Channel Mission Bay,,3379,0
 2091552818,185 Channel St,San Francisco,CA,94158,37.77439,-122.39022,Channel Mission Bay,,4265,1
-2091552818,185 Channel St,San Francisco,CA,94158,37.77439,-122.39022,Channel Mission Bay,,5975,2
-2058434861,11600 Dunstan Way,Los Angeles,CA,90049,34.059753,-118.467384,Respara Brentwood,,7059,1
-2058434861,11600 Dunstan Way,Los Angeles,CA,90049,34.059753,-118.467384,Respara Brentwood,,12424,2
-2058434861,11600 Dunstan Way,Los Angeles,CA,90049,34.059753,-118.467384,Respara Brentwood,,19000,3
 458153526,400 W 550 N,Centerville,UT,84014,40.92352,-111.885124,Garden View Townhomes,,1705,2
 458525735,14527 S Travel Dr,Draper,UT,84020,40.487976,-111.883575,Triton Terrace,,1290,1
 458525735,14527 S Travel Dr,Draper,UT,84020,40.487976,-111.883575,Triton Terrace,,1690,2
@@ -2299,8 +2275,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 444127557,3610 Mendocino Ave,Santa Rosa,CA,95403,38.475834,-122.727066,Villa Rotonda,,3495,2
 458649196,1881 Rollins Rd,Burlingame,CA,94010,37.59805,-122.383484,Hanover Burlingame,,3199,0
 458649196,1881 Rollins Rd,Burlingame,CA,94010,37.59805,-122.383484,Hanover Burlingame,,3470,1
-458649196,1881 Rollins Rd,Burlingame,CA,94010,37.59805,-122.383484,Hanover Burlingame,,5061,2
-458649196,1881 Rollins Rd,Burlingame,CA,94010,37.59805,-122.383484,Hanover Burlingame,,6416,3
 448040175,207 E Seaside Way,Long Beach,CA,90802,33.76616,-118.19052,The Crest,,2650,1
 448040175,207 E Seaside Way,Long Beach,CA,90802,33.76616,-118.19052,The Crest,,3970,2
 457091682,8222 N 19th Ave,Phoenix,AZ,85021,33.557827,-112.10068,Cielo Apartments,,677,0
@@ -2317,7 +2291,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2090522062,2685 California St,Mountain View,CA,94040,37.40701,-122.11323,The Camille North Apartments,,3595,2
 2105595107,10100 Mary Ave,Cupertino,CA,95014,37.323204,-122.046135,Glenbrook Apartments,,2895,1
 2105595107,10100 Mary Ave,Cupertino,CA,95014,37.323204,-122.046135,Glenbrook Apartments,,4345,2
-2105595107,10100 Mary Ave,Cupertino,CA,95014,37.323204,-122.046135,Glenbrook Apartments,,5145,3
 2084363827,1830 N Cherokee Ave APT 401,Los Angeles,CA,90028,34.104103,-118.33463,"The Commodore, 401",707.0,2700,1
 2092571782,77 Paloma Ave,Pacifica,CA,94044,37.636814,-122.49287,SeaPointe,,3316,2
 456894730,1545 N Santa Rita Ave #060C04696,Tucson,AZ,85719,32.24131,-110.953964,"Union on Santa Rita, 2 Bed 1 Bath",990.0,1699,2
@@ -2350,10 +2323,8 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 452768479,2700 N Ventura Rd,Oxnard,CA,93036,34.24219,-119.18582,Panorama Riverpark,,2613,0
 452768479,2700 N Ventura Rd,Oxnard,CA,93036,34.24219,-119.18582,Panorama Riverpark,,2698,1
 452768479,2700 N Ventura Rd,Oxnard,CA,93036,34.24219,-119.18582,Panorama Riverpark,,3095,2
-452768479,2700 N Ventura Rd,Oxnard,CA,93036,34.24219,-119.18582,Panorama Riverpark,,4882,3
 456726799,5717 Carlton Way,Los Angeles,CA,90028,34.100822,-118.3143,ONIX Hollywood,,2550,1
 456726799,5717 Carlton Way,Los Angeles,CA,90028,34.100822,-118.3143,ONIX Hollywood,,3100,2
-2060222029,714 N Sweetzer Ave APT 406,West Hollywood,CA,90069,34.084236,-118.36997,"TALA Residences at Sweetzer, 406",1625.0,6499,2
 457116254,5727 N 7th St,Phoenix,AZ,85014,33.521214,-112.06454,Broadstone 7th Street,,1640,0
 457116254,5727 N 7th St,Phoenix,AZ,85014,33.521214,-112.06454,Broadstone 7th Street,,1660,1
 457116254,5727 N 7th St,Phoenix,AZ,85014,33.521214,-112.06454,Broadstone 7th Street,,2035,2
@@ -2368,9 +2339,7 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 345085128,3830 N Windsong Dr,Prescott Valley,AZ,86314,34.59758,-112.32963,The Crossings at Windsong,,2077,2
 345085128,3830 N Windsong Dr,Prescott Valley,AZ,86314,34.59758,-112.32963,The Crossings at Windsong,,2450,3
 2078081756,1200 Lakeshore Ave,Oakland,CA,94606,37.79868,-122.25825,1200 Lakeshore,,4350,2
-2078081756,1200 Lakeshore Ave,Oakland,CA,94606,37.79868,-122.25825,1200 Lakeshore,,7995,3
 458670347,701 S Nardo Ave,Solana Beach,CA,92075,32.98533,-117.2613,Riva,,3705,1
-458670347,701 S Nardo Ave,Solana Beach,CA,92075,32.98533,-117.2613,Riva,,4895,2
 458206248,6500 Cotton Wood Cir,Dublin,CA,94568,37.719887,-121.91242,Cotton Wood,,2675,1
 458206248,6500 Cotton Wood Cir,Dublin,CA,94568,37.719887,-121.91242,Cotton Wood,,3040,2
 457280565,1350 E Miller Ave,Salt Lake City,UT,84106,40.70242,-111.85331,Millhaus,,1676,0
@@ -2384,14 +2353,8 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2057737115,250 E Broadway,Long Beach,CA,90802,33.76914,-118.18978,Aster,,4175,3
 2055201297,833 W Emeril Ave #5,Salt Lake City,UT,84116,40.770077,-111.9151,"Emeril Townhomes, 2X2",1250.0,2299,2
 456194943,1303 S Orange Grove Ave,Los Angeles,CA,90019,34.05308,-118.365265,Paseo Living,,4200,2
-456194943,1303 S Orange Grove Ave,Los Angeles,CA,90019,34.05308,-118.365265,Paseo Living,,5100,3
-457872089,8457 Blackburn Ave,Los Angeles,CA,90048,34.072575,-118.37516,Blackburn La Cienega by Wiseman,,5295,4
-457872089,8457 Blackburn Ave,Los Angeles,CA,90048,34.072575,-118.37516,Blackburn La Cienega by Wiseman,,6395,5
 458691480,4242 Via Marina,Marina Del Rey,CA,90292,33.977795,-118.45863,AMLI Marina Del Rey,,3872,0
 458691480,4242 Via Marina,Marina Del Rey,CA,90292,33.977795,-118.45863,AMLI Marina Del Rey,,4206,1
-458691480,4242 Via Marina,Marina Del Rey,CA,90292,33.977795,-118.45863,AMLI Marina Del Rey,,6054,2
-458691480,4242 Via Marina,Marina Del Rey,CA,90292,33.977795,-118.45863,AMLI Marina Del Rey,,7604,3
-441879474,11701 Santa Monica Blvd #PENTHOUSE 512,Los Angeles,CA,90025,34.043854,-118.45641,"BARRINGTON ROW, 2 beds  2.0 baths (1335 sqft)",1335.0,5770,2
 2059009440,2790 Segundo Dr,Lehi,UT,84043,40.42149,-111.91466,Drexler Townhomes at Holbrook,,2435,2
 2059009440,2790 Segundo Dr,Lehi,UT,84043,40.42149,-111.91466,Drexler Townhomes at Holbrook,,2470,3
 2059009440,2790 Segundo Dr,Lehi,UT,84043,40.42149,-111.91466,Drexler Townhomes at Holbrook,,2599,4
@@ -2438,13 +2401,10 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 458592456,5335 W Adams Blvd,Los Angeles,CA,90016,34.03281,-118.35903,Zoe Lofts,,2499,1
 450533388,11850 N 19th Ave,Phoenix,AZ,85029,33.595036,-112.10062,Towers Apartments,,700,0
 450533388,11850 N 19th Ave,Phoenix,AZ,85029,33.595036,-112.10062,Towers Apartments,,750,1
-457404265,153 San Vicente Blvd,Santa Monica,CA,90402,34.02783,-118.51328,Ocean 153,,7800,2
 2081384754,11916 W Pico Blvd,Los Angeles,CA,90064,34.029934,-118.44872,&Pico,,2865,1
 2081384754,11916 W Pico Blvd,Los Angeles,CA,90064,34.029934,-118.44872,&Pico,,4398,2
 402270714,1101 Park Pl,San Mateo,CA,94403,37.545204,-122.29162,Park Place at San Mateo,,3354,1
 402270714,1101 Park Pl,San Mateo,CA,94403,37.545204,-122.29162,Park Place at San Mateo,,4373,2
-402270714,1101 Park Pl,San Mateo,CA,94403,37.545204,-122.29162,Park Place at San Mateo,,6160,3
-453538753,350 N Palm Dr,Beverly Hills,CA,90210,34.07507,-118.39187,Palma Beverly Hills,,11700,2
 2088753712,2020 Kittredge St,Berkeley,CA,94704,37.867825,-122.26943,K Street Flats,,2778,1
 2088753712,2020 Kittredge St,Berkeley,CA,94704,37.867825,-122.26943,K Street Flats,,3346,2
 2087566068,1930 S 24th St,Mesa,AZ,85204,33.380154,-111.784195,Craft at Gilbert and Baseline,,1479,1
@@ -2455,7 +2415,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2056832222,2325 E Rio Salado Pkwy,Tempe,AZ,85288,33.42802,-111.889244,The Retreat at Rio Salado,,1519,1
 2056832222,2325 E Rio Salado Pkwy,Tempe,AZ,85288,33.42802,-111.889244,The Retreat at Rio Salado,,2354,2
 2085336160,2055 Center St,Berkeley,CA,94704,37.87045,-122.26933,Berkeley Central,,2983,1
-2085336160,2055 Center St,Berkeley,CA,94704,37.87045,-122.26933,Berkeley Central,,5895,2
 2082537676,2675 Fletcher Pkwy,El Cajon,CA,92020,32.800392,-117.00136,Ivanhoe Village Apartments,,1984,1
 2082537676,2675 Fletcher Pkwy,El Cajon,CA,92020,32.800392,-117.00136,Ivanhoe Village Apartments,,2608,2
 2082537676,2675 Fletcher Pkwy,El Cajon,CA,92020,32.800392,-117.00136,Ivanhoe Village Apartments,,3335,3
@@ -2472,8 +2431,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 349445131,3639 Haven Ave,Menlo Park,CA,94025,37.486374,-122.18364,Anton Menlo,,2998,0
 349445131,3639 Haven Ave,Menlo Park,CA,94025,37.486374,-122.18364,Anton Menlo,,3257,1
 402459666,1040 Glendon Ave,Los Angeles,CA,90024,34.061684,-118.44408,The Glendon,,3900,1
-402459666,1040 Glendon Ave,Los Angeles,CA,90024,34.061684,-118.44408,The Glendon,,4895,2
-402459666,1040 Glendon Ave,Los Angeles,CA,90024,34.061684,-118.44408,The Glendon,,5995,3
 457939654,5119 W Maplewood Ave,Los Angeles,CA,90004,34.08041,-118.31417,Maplewood,,3010,2
 458273633,2265 River Run Dr,San Diego,CA,92108,32.77877,-117.1332,River Run Village,,2652,1
 458273633,2265 River Run Dr,San Diego,CA,92108,32.77877,-117.1332,River Run Village,,3288,2
@@ -2518,22 +2475,17 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 458551433,10 Andrew Dr,Belvedere Tiburon,CA,94920,37.897392,-122.496216,Tiburon Hill Estates,,4000,3
 442305152,1094 Tanland Dr,Palo Alto,CA,94303,37.44374,-122.12018,Parker Palo Alto,,2995,1
 442305152,1094 Tanland Dr,Palo Alto,CA,94303,37.44374,-122.12018,Parker Palo Alto,,3345,2
-442305152,1094 Tanland Dr,Palo Alto,CA,94303,37.44374,-122.12018,Parker Palo Alto,,5600,3
 2056207108,2220 Cemo Cir,Rancho Cordova,CA,95670,38.62088,-121.265755,Aurora Apartments,,1980,1
 2056207108,2220 Cemo Cir,Rancho Cordova,CA,95670,38.62088,-121.265755,Aurora Apartments,,2399,2
 2056207108,2220 Cemo Cir,Rancho Cordova,CA,95670,38.62088,-121.265755,Aurora Apartments,,2995,3
 2091757592,25330 Silver Aspen Way,Valencia,CA,91381,34.40984,-118.58022,Links at Westridge,,2650,1
 2091757592,25330 Silver Aspen Way,Valencia,CA,91381,34.40984,-118.58022,Links at Westridge,,3200,2
 458696340,750 W Fir St,San Diego,CA,92101,32.724453,-117.16907,The Q Lofts,,3295,1
-458696340,750 W Fir St,San Diego,CA,92101,32.724453,-117.16907,The Q Lofts,,5295,2
-458696340,750 W Fir St,San Diego,CA,92101,32.724453,-117.16907,The Q Lofts,,11995,4
 457261121,250 E Acacia St APT 101,Brea,CA,92821,33.90698,-117.9022,"250 E Acacia St., 2bd 2ba D",,2850,2
 2078743286,23731 Mariner Dr,Dana Pt,CA,92629,33.47804,-117.71585,The Villas at Monarch Beach,,2542,1
 2078743286,23731 Mariner Dr,Dana Pt,CA,92629,33.47804,-117.71585,The Villas at Monarch Beach,,2919,2
 2089088353,30824 La Miranda,Rancho Santa Margarita,CA,92688,33.64296,-117.593216,Overture Rancho Santa Margarita 55+ Apartment Homes,,2595,1
 457731014,5870 Franklin Ave #09CA954E7,Los Angeles,CA,90028,34.105057,-118.31767,"5870 Franklin ave, Studio",450.0,2500,0
-442142447,34137 Pacific Coast Hwy,Dana Pt,CA,92629,33.46624,-117.70182,Prado West,,5169,2
-442142447,34137 Pacific Coast Hwy,Dana Pt,CA,92629,33.46624,-117.70182,Prado West,,5901,3
 2080408034,1120 S Grand Ave,Los Angeles,CA,90015,34.040516,-118.26244,AVEN,,2706,0
 2080408034,1120 S Grand Ave,Los Angeles,CA,90015,34.040516,-118.26244,AVEN,,2651,1
 2080408034,1120 S Grand Ave,Los Angeles,CA,90015,34.040516,-118.26244,AVEN,,3652,2
@@ -2553,10 +2505,8 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2083867830,1001 18th St,Bakersfield,CA,93301,35.374763,-119.0136,17th Place Townhomes,,2080,2
 2088511336,1122 Gayley Ave,Los Angeles,CA,90024,34.059734,-118.446075,Gayley & Lindbrook,,3295,0
 2088511336,1122 Gayley Ave,Los Angeles,CA,90024,34.059734,-118.446075,Gayley & Lindbrook,,4395,1
-2088511336,1122 Gayley Ave,Los Angeles,CA,90024,34.059734,-118.446075,Gayley & Lindbrook,,5195,2
 2078868475,100 Grand Ln,San Mateo,CA,94404,37.56263,-122.26867,One Hundred Grand,,3599,1
 2078868475,100 Grand Ln,San Mateo,CA,94404,37.56263,-122.26867,One Hundred Grand,,4207,2
-2078868475,100 Grand Ln,San Mateo,CA,94404,37.56263,-122.26867,One Hundred Grand,,5607,3
 458266948,1711 N 159th Ave,Goodyear,AZ,85395,33.46597,-112.400085,The Maxx 159,,1429,1
 458266948,1711 N 159th Ave,Goodyear,AZ,85395,33.46597,-112.400085,The Maxx 159,,1599,2
 442504209,9174 Indiana Ave,Riverside,CA,92503,33.91715,-117.43548,The Hawthorne,,2268,1
@@ -2579,7 +2529,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 458591800,6060 Buckingham Pkwy,Culver City,CA,90230,33.984768,-118.3836,The Mark Culver City,,3595,2
 458591800,6060 Buckingham Pkwy,Culver City,CA,90230,33.984768,-118.3836,The Mark Culver City,,4595,3
 2058226353,2028 Bancroft Way,Berkeley,CA,94704,37.86735,-122.26891,B28,,3895,2
-2058226353,2028 Bancroft Way,Berkeley,CA,94704,37.86735,-122.26891,B28,,6195,3
 458691682,260 S 500 E,Salt Lake City,UT,84102,40.7636,-111.877045,The Bonneville,,1305,1
 458691682,260 S 500 E,Salt Lake City,UT,84102,40.7636,-111.877045,The Bonneville,,1989,2
 440625025,999 E Baseline Rd,Tempe,AZ,85283,33.377518,-111.92419,Nines at Lakeside,,1199,0
@@ -2624,14 +2573,12 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2055679736,202 Chaisson Dr #A34D3AEA4,San Clemente,CA,92672,33.39065,-117.57889,"San Onofre 1, 354BFD",1835.0,3600,4
 458500928,7545 Katella Ave,Stanton,CA,90680,33.803864,-118.000725,Briarwood Square,,2216,1
 458500928,7545 Katella Ave,Stanton,CA,90680,33.803864,-118.000725,Briarwood Square,,2664,2
-456698692,1731 S Federal Ave #502,Los Angeles,CA,90025,34.04169,-118.45155,"1731 Federal Ave, A",1900.0,5690,3
 2056083286,760 S Serrano Ave,Los Angeles,CA,90005,34.058052,-118.30634,Roya,,2130,0
 2056083286,760 S Serrano Ave,Los Angeles,CA,90005,34.058052,-118.30634,Roya,,2630,1
 2056083286,760 S Serrano Ave,Los Angeles,CA,90005,34.058052,-118.30634,Roya,,2895,2
 352602132,1200 Rickabaugh Way,Santa Clara,CA,95050,37.356247,-121.93406,Orlo,,3340,0
 352602132,1200 Rickabaugh Way,Santa Clara,CA,95050,37.356247,-121.93406,Orlo,,3542,1
 352602132,1200 Rickabaugh Way,Santa Clara,CA,95050,37.356247,-121.93406,Orlo,,4210,2
-352602132,1200 Rickabaugh Way,Santa Clara,CA,95050,37.356247,-121.93406,Orlo,,5664,3
 441706239,27942 Forbes Road Laguna Hls,Laguna Niguel,CA,92677,33.55621,-117.675,Hanover Laguna Niguel,,2440,0
 441706239,27942 Forbes Road Laguna Hls,Laguna Niguel,CA,92677,33.55621,-117.675,Hanover Laguna Niguel,,2851,1
 441706239,27942 Forbes Road Laguna Hls,Laguna Niguel,CA,92677,33.55621,-117.675,Hanover Laguna Niguel,,3246,2
@@ -2654,7 +2601,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 458576266,940 S Capaldi Dr,Saint George,UT,84770,37.092426,-113.598976,Black Ridge Townhomes,,2109,3
 458191763,24450-80 Main St,Newhall,CA,91321,34.380993,-118.5291,Newhall Crossings,,3400,2
 458191763,24450-80 Main St,Newhall,CA,91321,34.380993,-118.5291,Newhall Crossings,,3795,3
-458267894,3550 Overland Ave #502,Los Angeles,CA,90034,34.02386,-118.410545,"Montecito Lofts, 502- Loft",1206.0,5000,2
 458214985,4627 Thomas Lake Harris Dr,Santa Rosa,CA,95403,38.491398,-122.7212,Canyon Oaks Luxury Apartments,,2595,1
 458214985,4627 Thomas Lake Harris Dr,Santa Rosa,CA,95403,38.491398,-122.7212,Canyon Oaks Luxury Apartments,,3120,2
 458214985,4627 Thomas Lake Harris Dr,Santa Rosa,CA,95403,38.491398,-122.7212,Canyon Oaks Luxury Apartments,,4195,3
@@ -2704,7 +2650,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2080265992,1475 Texas Ave,Houston,TX,77002,29.758015,-95.358345,CATALYST Houston,,1635,0
 2080265992,1475 Texas Ave,Houston,TX,77002,29.758015,-95.358345,CATALYST Houston,,2125,1
 2080265992,1475 Texas Ave,Houston,TX,77002,29.758015,-95.358345,CATALYST Houston,,2800,2
-2080265992,1475 Texas Ave,Houston,TX,77002,29.758015,-95.358345,CATALYST Houston,,6175,3
 2061302728,7892 Knight Rd,Houston,TX,77054,29.689768,-95.40104,Revl Med Center,,1366,0
 2061302728,7892 Knight Rd,Houston,TX,77054,29.689768,-95.40104,Revl Med Center,,1575,1
 2061302728,7892 Knight Rd,Houston,TX,77054,29.689768,-95.40104,Revl Med Center,,2284,2
@@ -2766,7 +2711,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 458526435,7825 Firefall Way,Dallas,TX,75230,32.882137,-96.77202,Preston Hollow Village,,1728,0
 458526435,7825 Firefall Way,Dallas,TX,75230,32.882137,-96.77202,Preston Hollow Village,,1565,1
 458526435,7825 Firefall Way,Dallas,TX,75230,32.882137,-96.77202,Preston Hollow Village,,2843,2
-458526435,7825 Firefall Way,Dallas,TX,75230,32.882137,-96.77202,Preston Hollow Village,,5625,3
 2080484940,5500 Broadway St,San Antonio,TX,78209,29.478745,-98.46294,Magnolia Heights,,2077,1
 2080484940,5500 Broadway St,San Antonio,TX,78209,29.478745,-98.46294,Magnolia Heights,,2618,2
 2080484940,5500 Broadway St,San Antonio,TX,78209,29.478745,-98.46294,Magnolia Heights,,4097,3
@@ -2939,7 +2883,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 449627647,4900 Gage Ave,Fort Worth,TX,76109,32.708675,-97.39808,The George,,1868,0
 449627647,4900 Gage Ave,Fort Worth,TX,76109,32.708675,-97.39808,The George,,1900,1
 449627647,4900 Gage Ave,Fort Worth,TX,76109,32.708675,-97.39808,The George,,2778,2
-449627647,4900 Gage Ave,Fort Worth,TX,76109,32.708675,-97.39808,The George,,5212,3
 458678492,3001 Hillcroft St,Houston,TX,77057,29.733562,-95.50017,Galleria Flats Apartments,,1109,1
 458678492,3001 Hillcroft St,Houston,TX,77057,29.733562,-95.50017,Galleria Flats Apartments,,1365,2
 2090843921,4825 Davis Ln,Austin,TX,78749,30.204601,-97.860146,Camden Stoneleigh,,1249,1
@@ -3000,7 +2943,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2079853748,11915 Stonehollow Dr,Austin,TX,78758,30.401478,-97.706184,Folio,,2198,3
 2069267211,3000 Gracie Kiltz Ln,Austin,TX,78758,30.394894,-97.722855,The Bowen,,2045,1
 2069267211,3000 Gracie Kiltz Ln,Austin,TX,78758,30.394894,-97.722855,The Bowen,,3415,2
-2069267211,3000 Gracie Kiltz Ln,Austin,TX,78758,30.394894,-97.722855,The Bowen,,13765,3
 2063149638,7624 Tecoma Cir,Austin,TX,78735,30.259949,-97.859886,Berkshire Santal,,1575,1
 2063149638,7624 Tecoma Cir,Austin,TX,78735,30.259949,-97.859886,Berkshire Santal,,1791,2
 2065630837,1230 E Cityline Dr,Richardson,TX,75082,32.99915,-96.70157,Bell CityLine I,,1365,1
@@ -3135,8 +3077,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2075268048,1000 Quiet Cv,Granbury,TX,76048,32.446125,-97.77148,Lake Villas Apartments,,1605,2
 2076797212,7880 Us Highway 290,Austin,TX,78736,30.230877,-97.887405,Palo Verde,,1131,1
 2076797212,7880 Us Highway 290,Austin,TX,78736,30.230877,-97.887405,Palo Verde,,1596,2
-458215086,6535 Bandera Ave,Dallas,TX,75225,32.868004,-96.79185,Park Hollow,,5306,2
-458215086,6535 Bandera Ave,Dallas,TX,75225,32.868004,-96.79185,Park Hollow,,7926,3
 2078117267,8200 Micron Dr,San Antonio,TX,78251,29.464642,-98.64975,Oxford at Estonia,,862,1
 2078117267,8200 Micron Dr,San Antonio,TX,78251,29.464642,-98.64975,Oxford at Estonia,,1230,2
 2078117267,8200 Micron Dr,San Antonio,TX,78251,29.464642,-98.64975,Oxford at Estonia,,1665,3
@@ -3243,7 +3183,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 458575035,159 W Kinderton Way,Advance,NC,27006,36.009167,-80.43008,Comet Bermuda Run,,1260,1
 458575035,159 W Kinderton Way,Advance,NC,27006,36.009167,-80.43008,Comet Bermuda Run,,1795,2
 2081549495,770 Jackson St,Hoboken,NJ,07030,40.746822,-74.03891,7 Seventy House,,3622,1
-2081549495,770 Jackson St,Hoboken,NJ,07030,40.746822,-74.03891,7 Seventy House,,5407,2
 458701274,99 Wilkens Ln,Hyannis,MA,02601,41.680714,-70.30236,Hanover Hyannis,,2886,0
 458701274,99 Wilkens Ln,Hyannis,MA,02601,41.680714,-70.30236,Hanover Hyannis,,2771,1
 458701274,99 Wilkens Ln,Hyannis,MA,02601,41.680714,-70.30236,Hanover Hyannis,,3488,2
@@ -3301,7 +3240,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 456655307,18 Dock St,Stamford,CT,06902,41.04794,-73.53539,18 Dock Apartments,,2932,0
 456655307,18 Dock St,Stamford,CT,06902,41.04794,-73.53539,18 Dock Apartments,,2827,1
 456655307,18 Dock St,Stamford,CT,06902,41.04794,-73.53539,18 Dock Apartments,,4207,2
-456655307,18 Dock St,Stamford,CT,06902,41.04794,-73.53539,18 Dock Apartments,,5572,3
 2063639944,380 Richard Harrison Way,Morgantown,WV,26501,39.645496,-79.9963,Spark Black Bear,,1450,1
 2063639944,380 Richard Harrison Way,Morgantown,WV,26501,39.645496,-79.9963,Spark Black Bear,,1675,2
 457900577,2024 Jane St,Pittsburgh,PA,15203,40.426514,-79.977554,The Jones Tower at the Collective,,2405,0
@@ -3317,7 +3255,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2061569373,1122 Medlin Rd,Durham,NC,27707,35.946873,-78.99328,Kelby Farms,,1447,1
 2061569373,1122 Medlin Rd,Durham,NC,27707,35.946873,-78.99328,Kelby Farms,,1697,2
 2061569373,1122 Medlin Rd,Durham,NC,27707,35.946873,-78.99328,Kelby Farms,,2184,3
-457306201,800 Sylvan Ave,Englewood Cliffs,NJ,07632,40.892597,-73.945,The Sylvan Townhomes,,8195,3
 2077176065,1230 New Hampshire Ave NW,Washington,DC,20036,38.906197,-77.04719,The Bond,,2149,0
 2077176065,1230 New Hampshire Ave NW,Washington,DC,20036,38.906197,-77.04719,The Bond,,2931,1
 2077176065,1230 New Hampshire Ave NW,Washington,DC,20036,38.906197,-77.04719,The Bond,,3739,2
@@ -3336,19 +3273,16 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 455950096,5300 Wisconsin Ave NW,Washington,DC,20015,38.95984,-77.08575,Residences at Mazza,,2478,0
 455950096,5300 Wisconsin Ave NW,Washington,DC,20015,38.95984,-77.08575,Residences at Mazza,,2548,1
 455950096,5300 Wisconsin Ave NW,Washington,DC,20015,38.95984,-77.08575,Residences at Mazza,,3972,2
-455950096,5300 Wisconsin Ave NW,Washington,DC,20015,38.95984,-77.08575,Residences at Mazza,,6336,3
 458695777,15101 Royal Creek Dr,Raleigh,NC,27603,35.66942,-78.704124,Abberly Royal Creek Apartment Homes,,1476,1
 458695777,15101 Royal Creek Dr,Raleigh,NC,27603,35.66942,-78.704124,Abberly Royal Creek Apartment Homes,,1677,2
 458695777,15101 Royal Creek Dr,Raleigh,NC,27603,35.66942,-78.704124,Abberly Royal Creek Apartment Homes,,2100,3
 457883385,10811 Georgia Ave,Silver Spring,MD,20902,39.032867,-77.04827,Wheaton House,,2099,2
 2070356590,1 Harborside Pl,Jersey City,NJ,07311,40.71933,-74.03059,The Pier,,3577,1
-2070356590,1 Harborside Pl,Jersey City,NJ,07311,40.71933,-74.03059,The Pier,,5033,2
 401899471,188 Lafayette St,New Haven,CT,06519,41.30138,-72.9302,The Mason at City Crossing,,2229,0
 401899471,188 Lafayette St,New Haven,CT,06519,41.30138,-72.9302,The Mason at City Crossing,,2418,1
 401899471,188 Lafayette St,New Haven,CT,06519,41.30138,-72.9302,The Mason at City Crossing,,3183,2
 457954686,888 Main St,New York,NY,10044,40.76877,-73.94308,The Octagon,,3076,0
 457954686,888 Main St,New York,NY,10044,40.76877,-73.94308,The Octagon,,3571,1
-457954686,888 Main St,New York,NY,10044,40.76877,-73.94308,The Octagon,,5308,2
 2061296377,1 Washington Ave,Morristown,NJ,07960,40.794323,-74.46516,Alister Morristown,,2450,1
 2061296377,1 Washington Ave,Morristown,NJ,07960,40.794323,-74.46516,Alister Morristown,,2700,2
 347001271,12801 Lucks Ln,Midlothian,VA,23114,37.467075,-77.637054,Avant at Midlothian,,1640,1
@@ -3366,7 +3300,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2056945244,801 3rd St NW,Washington,DC,20001,38.900692,-77.01505,Cantata,,2499,1
 2056945244,801 3rd St NW,Washington,DC,20001,38.900692,-77.01505,Cantata,,3793,2
 2105749809,120 Rindge Ave,Cambridge,MA,02140,42.39229,-71.129814,The Wyeth,,3200,1
-2105749809,120 Rindge Ave,Cambridge,MA,02140,42.39229,-71.129814,The Wyeth,,5250,3
 452684399,125 State Route 10 #9677,Whippany,NJ,07981,40.813698,-74.39908,"Hanover - Parsippany, Plan A",300.0,2219,0
 2091978381,71 Mayfair Sq,Danbury,CT,06810,41.376053,-73.53508,Mayfair Square,,3844,2
 457492368,18 Yellowwood Ct,Douglassville,PA,19518,40.29336,-75.73124,Arbour Green at Amity,,2000,1
@@ -3390,7 +3323,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 455041726,101 Shore Lake Dr,Greensboro,NC,27455,36.144974,-79.80519,Waterford Place,,1775,3
 2052873945,3929 Landmark Ct,Chevy Chase,MD,20815,38.99425,-77.07885,Crescent at Chevy Chase,,1995,1
 2052873945,3929 Landmark Ct,Chevy Chase,MD,20815,38.99425,-77.07885,Crescent at Chevy Chase,,3245,2
-2052873945,3929 Landmark Ct,Chevy Chase,MD,20815,38.99425,-77.07885,Crescent at Chevy Chase,,4990,3
 2062244689,32 Cambridge St,Charlestown,MA,02129,42.383198,-71.073746,The Graphic Lofts,,2515,0
 2062244689,32 Cambridge St,Charlestown,MA,02129,42.383198,-71.073746,The Graphic Lofts,,2985,1
 457658362,300 25th St,Virginia Beach,VA,23451,36.85293,-75.97798,Aqua on 25th,,1850,1
@@ -3411,7 +3343,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2078421917,425 Washington Blvd,Jersey City,NJ,07310,40.722652,-74.03686,The BLVD Collection,,2990,0
 2078421917,425 Washington Blvd,Jersey City,NJ,07310,40.722652,-74.03686,The BLVD Collection,,3330,1
 2078421917,425 Washington Blvd,Jersey City,NJ,07310,40.722652,-74.03686,The BLVD Collection,,4710,2
-2078421917,425 Washington Blvd,Jersey City,NJ,07310,40.722652,-74.03686,The BLVD Collection,,7135,3
 439853274,510 Quaker Creek Dr,Mebane,NC,27302,36.08074,-79.29127,Fieldstone Apartment Homes,,1050,1
 439853274,510 Quaker Creek Dr,Mebane,NC,27302,36.08074,-79.29127,Fieldstone Apartment Homes,,1165,2
 439853274,510 Quaker Creek Dr,Mebane,NC,27302,36.08074,-79.29127,Fieldstone Apartment Homes,,1715,3
@@ -3449,7 +3380,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2057810243,1134 Sansom St,Philadelphia,PA,19107,39.949432,-75.15966,Jessup House,,1873,0
 2057810243,1134 Sansom St,Philadelphia,PA,19107,39.949432,-75.15966,Jessup House,,2027,1
 2057810243,1134 Sansom St,Philadelphia,PA,19107,39.949432,-75.15966,Jessup House,,3271,2
-2057810243,1134 Sansom St,Philadelphia,PA,19107,39.949432,-75.15966,Jessup House,,7095,3
 352127330,99-100 Hale Ave,White Plains,NY,10605,41.029106,-73.76082,The Duet - Downtown,,2850,0
 352127330,99-100 Hale Ave,White Plains,NY,10605,41.029106,-73.76082,The Duet - Downtown,,2944,1
 352127330,99-100 Hale Ave,White Plains,NY,10605,41.029106,-73.76082,The Duet - Downtown,,4256,2
@@ -3466,7 +3396,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 457085289,180 Friendship St,Providence,RI,02903,41.818707,-71.412445,Chestnut Commons,,3896,0
 457085289,180 Friendship St,Providence,RI,02903,41.818707,-71.412445,Chestnut Commons,,2950,2
 458096944,1200 Clinton St,Hoboken,NJ,07030,40.75245,-74.03145,The Jordan,,3989,1
-458096944,1200 Clinton St,Hoboken,NJ,07030,40.75245,-74.03145,The Jordan,,5412,2
 2075347282,300 Bedford St SUITE 511,Manchester,NH,03101,42.991035,-71.46746,"Lofts at Mill Number One, 2 Bed 2 Bath",1063.0,2520,2
 2086022622,751 Vandenburg Rd,King Of Prussia,PA,19406,40.105392,-75.40444,Park Square,,1646,0
 2086022622,751 Vandenburg Rd,King Of Prussia,PA,19406,40.105392,-75.40444,Park Square,,1817,1
@@ -3515,7 +3444,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2071006540,1127 Ivy Club Ln,Hyattsville,MD,20785,38.90583,-76.87119,The Ivy Club,,1925,2
 2070315550,33 Hudson St,Jersey City,NJ,07302,40.71323,-74.03555,Liberty Towers,,3335,0
 2070315550,33 Hudson St,Jersey City,NJ,07302,40.71323,-74.03555,Liberty Towers,,3985,1
-2070315550,33 Hudson St,Jersey City,NJ,07302,40.71323,-74.03555,Liberty Towers,,5475,2
 458699728,700 E Franklin St,Richmond,VA,23219,37.540123,-77.43674,The Edison Apartments,,1356,0
 458699728,700 E Franklin St,Richmond,VA,23219,37.540123,-77.43674,The Edison Apartments,,1321,1
 458699728,700 E Franklin St,Richmond,VA,23219,37.540123,-77.43674,The Edison Apartments,,1661,2
@@ -3525,9 +3453,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 458296951,1700 Benjamin Franklin Pkwy,Philadelphia,PA,19103,39.95573,-75.16815,The Windsor Apartments,,1675,1
 456357032,2844 Wisconsin Ave NW,Washington,DC,20007,38.92725,-77.073524,Garfield House,,1599,0
 456357032,2844 Wisconsin Ave NW,Washington,DC,20007,38.92725,-77.073524,Garfield House,,2495,1
-450783072,33 Calvert St,Harrison,NY,10528,40.969433,-73.71475,Harrison Mews,,6995,2
-450783072,33 Calvert St,Harrison,NY,10528,40.969433,-73.71475,Harrison Mews,,7900,3
-450783072,33 Calvert St,Harrison,NY,10528,40.969433,-73.71475,Harrison Mews,,9650,4
 450681751,2741 Addlestone Cir,High Pt,NC,27265,36.037437,-79.96586,Evolve at Deep River,,1495,1
 450681751,2741 Addlestone Cir,High Pt,NC,27265,36.037437,-79.96586,Evolve at Deep River,,1759,2
 450681751,2741 Addlestone Cir,High Pt,NC,27265,36.037437,-79.96586,Evolve at Deep River,,1975,3
@@ -3554,15 +3479,12 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2061509092,20 Maryland Ave,Rockville,MD,20850,39.086864,-77.15079,Fenestra at The Square,,2523,2
 2088205017,1011 Washington Blvd,Stamford,CT,06901,41.053463,-73.542534,Vela on the Park,,2800,1
 2088205017,1011 Washington Blvd,Stamford,CT,06901,41.053463,-73.542534,Vela on the Park,,3835,2
-442530387,555 Stewart Ave,Garden City,NY,11530,40.73166,-73.61343,Florent,,5695,2
-442530387,555 Stewart Ave,Garden City,NY,11530,40.73166,-73.61343,Florent,,9750,3
 453163630,11503 McCormick Rd,Cockeysville,MD,21030,39.49879,-76.65833,Avalon Hunt Valley and Hunt Valley West,,1645,0
 453163630,11503 McCormick Rd,Cockeysville,MD,21030,39.49879,-76.65833,Avalon Hunt Valley and Hunt Valley West,,1800,1
 453163630,11503 McCormick Rd,Cockeysville,MD,21030,39.49879,-76.65833,Avalon Hunt Valley and Hunt Valley West,,2235,2
 453163630,11503 McCormick Rd,Cockeysville,MD,21030,39.49879,-76.65833,Avalon Hunt Valley and Hunt Valley West,,2946,3
 455234079,474 Warren St,Jersey City,NJ,07302,40.72447,-74.03779,VYV,,3213,0
 455234079,474 Warren St,Jersey City,NJ,07302,40.72447,-74.03779,VYV,,3618,1
-455234079,474 Warren St,Jersey City,NJ,07302,40.72447,-74.03779,VYV,,5122,2
 442781587,1000 Conestoga Rd,Bryn Mawr,PA,19010,40.023506,-75.32996,Radcliff House,,1995,1
 442781587,1000 Conestoga Rd,Bryn Mawr,PA,19010,40.023506,-75.32996,Radcliff House,,2255,2
 457587208,533 Front St,Norfolk,VA,23510,36.853786,-76.30146,The Lofts at Front Street,,1780,1
@@ -3620,9 +3542,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 457215365,201 Oak Ave,Ithaca,NY,14850,42.442207,-76.48277,THE SUMMIT at 201 OAK AVENUE,,2595,1
 457215365,201 Oak Ave,Ithaca,NY,14850,42.442207,-76.48277,THE SUMMIT at 201 OAK AVENUE,,3795,2
 457215365,201 Oak Ave,Ithaca,NY,14850,42.442207,-76.48277,THE SUMMIT at 201 OAK AVENUE,,4560,3
-457215365,201 Oak Ave,Ithaca,NY,14850,42.442207,-76.48277,THE SUMMIT at 201 OAK AVENUE,,7970,4
-457215365,201 Oak Ave,Ithaca,NY,14850,42.442207,-76.48277,THE SUMMIT at 201 OAK AVENUE,,9455,5
-457215365,201 Oak Ave,Ithaca,NY,14850,42.442207,-76.48277,THE SUMMIT at 201 OAK AVENUE,,10800,6
 458591471,6161 Edsall Rd,Alexandria,VA,22304,38.807533,-77.14175,Landmark Ridge,,1872,1
 458591471,6161 Edsall Rd,Alexandria,VA,22304,38.807533,-77.14175,Landmark Ridge,,2364,2
 455287211,2120 16th St NW,Washington,DC,20009,38.918793,-77.03678,Washington House,,1710,0
@@ -3657,7 +3576,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2055684368,17530 Lake Melford Ave,Bowie,MD,20715,38.961227,-76.70899,Aspen at Melford Town Center,,2794,2
 2063468073,401 E 34th St,New York,NY,10016,40.74365,-73.97271,View 34,,3624,0
 2063468073,401 E 34th St,New York,NY,10016,40.74365,-73.97271,View 34,,3922,1
-2063468073,401 E 34th St,New York,NY,10016,40.74365,-73.97271,View 34,,6671,2
 401902604,921 Mendocino St,Wake Forest,NC,27587,35.986187,-78.48549,Hawthorne at Traditions,,1349,1
 401902604,921 Mendocino St,Wake Forest,NC,27587,35.986187,-78.48549,Hawthorne at Traditions,,1714,2
 401902604,921 Mendocino St,Wake Forest,NC,27587,35.986187,-78.48549,Hawthorne at Traditions,,2270,3
@@ -3701,7 +3619,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2058215551,925 Makers Way NW,Huntsville,AL,35805,34.736614,-86.665085,Metronome Mid City,,2194,3
 2069906826,750 N Rush St,Chicago,IL,60611,41.896275,-87.62587,Chicagoan,,2375,1
 2069906826,750 N Rush St,Chicago,IL,60611,41.896275,-87.62587,Chicagoan,,3719,2
-2069906826,750 N Rush St,Chicago,IL,60611,41.896275,-87.62587,Chicagoan,,8088,3
 2055331990,810 Division St,Nashville,TN,37203,36.15031,-86.780014,Modera Gulch,,1725,0
 2055331990,810 Division St,Nashville,TN,37203,36.15031,-86.780014,Modera Gulch,,1721,1
 2055331990,810 Division St,Nashville,TN,37203,36.15031,-86.780014,Modera Gulch,,1980,2
@@ -3885,7 +3802,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 458297959,600 Central St #302,Kansas City,MO,64105,39.106277,-94.586235,"OGGI Lofts, 1 Bedroom",737.0,1325,1
 2066751397,1901 S Avenue I #DCE994BB2,Portales,NM,88130,34.16968,-103.34273,"Los Pueblos de Portales, C-5",690.0,725,2
 449664982,3505 S Constance Ave,Bloomington,IN,47401,39.13253,-86.49843,The Estelle,,1479,1
-453654548,1323 E 57th St #2BA175822,Chicago,IL,60637,41.791405,-87.59384,"1323 E. 57th St, 1323-4bA",1200.0,4995,4
 457895231,1033 High St,Madison,WI,53715,43.05561,-89.39935,WINGRA POINT RESIDENCES LLC,,1499,0
 457895231,1033 High St,Madison,WI,53715,43.05561,-89.39935,WINGRA POINT RESIDENCES LLC,,1649,1
 457895231,1033 High St,Madison,WI,53715,43.05561,-89.39935,WINGRA POINT RESIDENCES LLC,,2299,2
@@ -3908,7 +3824,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2092166339,123 N Desplaines St,Chicago,IL,60661,41.884014,-87.643776,Catalyst,,2344,0
 2092166339,123 N Desplaines St,Chicago,IL,60661,41.884014,-87.643776,Catalyst,,2850,1
 2092166339,123 N Desplaines St,Chicago,IL,60661,41.884014,-87.643776,Catalyst,,4068,2
-2092166339,123 N Desplaines St,Chicago,IL,60661,41.884014,-87.643776,Catalyst,,5931,3
 458481278,8229 Northwoods Dr,Lincoln,NE,68505,40.82592,-96.60878,Timberline Apartments,,1519,2
 458481278,8229 Northwoods Dr,Lincoln,NE,68505,40.82592,-96.60878,Timberline Apartments,,1559,3
 2057093638,670 N May St,Chicago,IL,60642,41.893578,-87.65632,Inspire West Town,,2030,0
@@ -4809,7 +4724,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 352684739,337 Washington Ave N,Minneapolis,MN,55401,44.984768,-93.27428,Dock Street Flats,,1295,0
 352684739,337 Washington Ave N,Minneapolis,MN,55401,44.984768,-93.27428,Dock Street Flats,,1795,1
 352684739,337 Washington Ave N,Minneapolis,MN,55401,44.984768,-93.27428,Dock Street Flats,,2545,2
-448991807,144 W Erie St,Chicago,IL,60654,41.89431,-87.63318,THE RHONE featuring the Saone Penthouse Collection,,9510,3
 2088833730,15 Parkway North Blvd,Deerfield,IL,60015,42.165764,-87.87669,Woodview Apartments,,1695,0
 2088833730,15 Parkway North Blvd,Deerfield,IL,60015,42.165764,-87.87669,Woodview Apartments,,2085,1
 2088833730,15 Parkway North Blvd,Deerfield,IL,60015,42.165764,-87.87669,Woodview Apartments,,2515,2
@@ -5017,7 +4931,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 450182060,750 Veterans Way,Carmel,IN,46032,39.969593,-86.12894,The Wren & The Windsor,,3296,3
 2069880207,2300 N Lincoln Park W,Chicago,IL,60614,41.924213,-87.63704,The Belden Stratford,,2905,0
 2069880207,2300 N Lincoln Park W,Chicago,IL,60614,41.924213,-87.63704,The Belden Stratford,,3465,1
-2069880207,2300 N Lincoln Park W,Chicago,IL,60614,41.924213,-87.63704,The Belden Stratford,,5685,2
 452746500,131 Baldwin Cir,Holly,MI,48442,42.885914,-83.602325,Baldwin Woods Apartments,,2500,2
 448963983,3215 W Mount Hope Ave,Lansing,MI,48911,42.710358,-84.59381,Grandhaven Manor - 55+,,1429,1
 448963983,3215 W Mount Hope Ave,Lansing,MI,48911,42.710358,-84.59381,Grandhaven Manor - 55+,,1679,2
@@ -5033,7 +4946,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 457114727,211 E Market St,Oxford,MI,48371,42.836975,-83.263695,Abbey Ridge Apartment Homes,,1700,2
 349544301,225 N Elizabeth St,Chicago,IL,60607,41.88616,-87.6586,The Elizabeth Chicago,,2795,1
 349544301,225 N Elizabeth St,Chicago,IL,60607,41.88616,-87.6586,The Elizabeth Chicago,,4095,2
-349544301,225 N Elizabeth St,Chicago,IL,60607,41.88616,-87.6586,The Elizabeth Chicago,,6395,3
 443089859,630 N Vel R Phillips Ave,Milwaukee,WI,53203,43.03806,-87.91557,Boston Lofts,,1575,1
 443089859,630 N Vel R Phillips Ave,Milwaukee,WI,53203,43.03806,-87.91557,Boston Lofts,,1895,2
 2062164391,2937 S King Dr,Chicago,IL,60616,41.842545,-87.6167,Prairie Shores,,921,0
@@ -5095,7 +5007,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 457365741,3700 Cole Ave,Dallas,TX,75204,32.808525,-96.79757,Lennox West Village,,2999,2
 458583254,6004 Prosperity Commons Dr,Charlotte,NC,28269,35.374466,-80.78361,Cascadia at Highland Creek,,2299,3
 2052865732,8119 Douglas Ave,Dallas,TX,75225,32.861305,-96.810234,8119 Douglas,,4050,1
-2052865732,8119 Douglas Ave,Dallas,TX,75225,32.861305,-96.810234,8119 Douglas,,5950,2
 458695928,1382 Peachtree St NE,Atlanta,GA,30309,33.792057,-84.38686,Nomia,,1528,0
 458695928,1382 Peachtree St NE,Atlanta,GA,30309,33.792057,-84.38686,Nomia,,2109,1
 458695928,1382 Peachtree St NE,Atlanta,GA,30309,33.792057,-84.38686,Nomia,,2957,2
@@ -5310,7 +5221,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2109419845,900 E Corsicana St,Athens,TX,75751,32.203506,-95.84018,Athena Garden Apartments,,855,0
 2109419845,900 E Corsicana St,Athens,TX,75751,32.203506,-95.84018,Athena Garden Apartments,,1587,2
 2056247119,12 Cowboys Way,Frisco,TX,75034,33.108902,-96.82601,Twelve Cowboys Way,,3526,1
-2056247119,12 Cowboys Way,Frisco,TX,75034,33.108902,-96.82601,Twelve Cowboys Way,,5052,2
 2089641847,5740 San Felipe St,Houston,TX,77057,29.750507,-95.47869,The William,,1400,0
 2089641847,5740 San Felipe St,Houston,TX,77057,29.750507,-95.47869,The William,,1710,1
 2089641847,5740 San Felipe St,Houston,TX,77057,29.750507,-95.47869,The William,,2750,2
@@ -5395,7 +5305,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 349961398,29758 Annex Dr,Madison,AL,35756,34.663887,-86.7958,Villas at Capital Twenty,,1928,3
 2077344574,47 Shelter Cove Ln,Hilton Head Island,SC,29928,32.18695,-80.718575,WaterWalk at Shelter Cove Towne Centre,,2500,1
 2077344574,47 Shelter Cove Ln,Hilton Head Island,SC,29928,32.18695,-80.718575,WaterWalk at Shelter Cove Towne Centre,,3275,2
-2077344574,47 Shelter Cove Ln,Hilton Head Island,SC,29928,32.18695,-80.718575,WaterWalk at Shelter Cove Towne Centre,,5700,3
 458315782,14105 Epply Dr,Jacksonville,FL,32218,30.491814,-81.6431,Exchange at Cedar Creek Apartment Homes,,1345,1
 458315782,14105 Epply Dr,Jacksonville,FL,32218,30.491814,-81.6431,Exchange at Cedar Creek Apartment Homes,,1835,2
 458315782,14105 Epply Dr,Jacksonville,FL,32218,30.491814,-81.6431,Exchange at Cedar Creek Apartment Homes,,2250,3
@@ -5454,7 +5363,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2057825228,12001 Inwood Rd,Dallas,TX,75244,32.911907,-96.82008,Elan Inwood,,3470,1
 2057825228,12001 Inwood Rd,Dallas,TX,75244,32.911907,-96.82008,Elan Inwood,,3406,2
 2057825228,12001 Inwood Rd,Dallas,TX,75244,32.911907,-96.82008,Elan Inwood,,4421,3
-2057825228,12001 Inwood Rd,Dallas,TX,75244,32.911907,-96.82008,Elan Inwood,,7599,4
 458648280,22005 Ferguson Meadow Ln,Richmond,TX,77407,29.689676,-95.746086,LightHaven at District West,,2450,2
 458648280,22005 Ferguson Meadow Ln,Richmond,TX,77407,29.689676,-95.746086,LightHaven at District West,,2750,3
 458648280,22005 Ferguson Meadow Ln,Richmond,TX,77407,29.689676,-95.746086,LightHaven at District West,,3600,4
@@ -5491,7 +5399,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 2055051918,1012 Burnett St,Fort Worth,TX,76102,32.748497,-97.33417,Burnett Lofts,,1242,1
 2055051918,1012 Burnett St,Fort Worth,TX,76102,32.748497,-97.33417,Burnett Lofts,,1999,2
 348596485,3421 W Arch St,Tampa,FL,33607,27.954582,-82.50125,Monterey Townhomes,,3695,3
-348596485,3421 W Arch St,Tampa,FL,33607,27.954582,-82.50125,Monterey Townhomes,,4995,4
 448087560,400 W Main St,Lewisville,TX,75057,33.04565,-97.00231,Aura Main Street,,1460,1
 448087560,400 W Main St,Lewisville,TX,75057,33.04565,-97.00231,Aura Main Street,,2135,2
 448087560,400 W Main St,Lewisville,TX,75057,33.04565,-97.00231,Aura Main Street,,2905,3
@@ -5581,7 +5488,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 458700316,1 Riva Row,Spring,TX,77380,30.159336,-95.4627,1 Riva Row,,2074,0
 458700316,1 Riva Row,Spring,TX,77380,30.159336,-95.4627,1 Riva Row,,2244,1
 458700316,1 Riva Row,Spring,TX,77380,30.159336,-95.4627,1 Riva Row,,3608,2
-458700316,1 Riva Row,Spring,TX,77380,30.159336,-95.4627,1 Riva Row,,6640,3
 2057698167,10333 Clay Rd,Houston,TX,77043,29.83135,-95.54896,The Westerly,,1315,1
 2057698167,10333 Clay Rd,Houston,TX,77043,29.83135,-95.54896,The Westerly,,1789,2
 2054516845,3151 Stillhouse Creek Dr SE,Atlanta,GA,30339,33.87503,-84.46174,Rowe Vinings,,1600,1
@@ -5638,14 +5544,11 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 456523756,2710 Kaaha St #30,Honolulu,HI,96826,21.288921,-157.82259,"2710 Kaaha St., Minimum 30 days",418.0,3300,1
 2057558816,304 Olive Ave #9,Wahiawa,HI,96786,21.494165,-158.03064,,500.0,1200,1
 72210078,91-2264 Kanela St #T-60,Ewa Beach,HI,96706,21.331465,-158.01521,,1538.0,3900,4
-306378433,(undisclosed Address),Hauula,HI,96717,21.6076,-157.9087,,,8190,1
 458678816,1638 Anapuni St APT M,Honolulu,HI,96822,21.304577,-157.83342,"1638 Anapuni, M",,1800,2
 456538427,2483 Kapiolani Blvd #594-1,Honolulu,HI,96826,21.287245,-157.82433,"2483 Kapiolani, 594 Kamoku-1",,3000,3
 636664,557 Olomana St,Kailua,HI,96734,21.403374,-157.75165,,1200.0,3500,2
-610631,4727 Kahala Ave #A,Honolulu,HI,96816,21.265455,-157.78049,,7860.0,120000,7
 598272,3313 Manoa Rd,Honolulu,HI,96822,21.319788,-157.8058,,850.0,2650,2
 2079542113,46-263 Kahuhipa St APT B104,Kaneohe,HI,96744,21.414024,-157.80931,,692.0,2200,2
-2053278241,92-1214 Olani St,Kapolei,HI,96707,21.342598,-158.12329,,1400.0,5500,3
 450208957,2126 Lauula St #203,Honolulu,HI,96815,21.281572,-157.82986,,,1500,1
 456775374,91-271 Hanapouli Cir #14I14I,Ewa Beach,HI,96706,21.333258,-158.02643,,811.0,2895,2
 82518780,2916 Date St APT 14E,Honolulu,HI,96816,21.281366,-157.8163,,652.0,2700,2
@@ -5663,8 +5566,6 @@ zpid,address,cityname,state,zipcode,latitude,longitude,title,square_feet,price,b
 72189319,1107 Acacia Rd APT 118,Pearl City,HI,96782,21.398539,-157.97812,,835.0,2500,3
 2055715123,2112 Fern St UNIT 1,Honolulu,HI,96826,21.290724,-157.83003,"2112 Fern Street, 1",,1300,1
 2055654017,2449 Kuhio Ave #1006-C,Honolulu,HI,96815,21.276249,-157.82312,"Gregory Pai, 1006-C",,1150,0
-82429255,520 Lunalilo Home Rd UNIT 318,Honolulu,HI,96825,21.29593,-157.69116,,1464.0,6500,3
-654281,59-571 Ke Iki Rd,Haleiwa,HI,96712,21.655529,-158.05989,,2600.0,30000,4
 350352935,1708A Nakiu Pl #1708,Honolulu,HI,96822,21.299486,-157.82523,,450.0,1895,2
 2091019498,1808 Liliha St #6,Honolulu,HI,96817,21.32377,-157.85738,"1808 Liliha Street, 6",,1475,0
 352406856,260 N School St #C,Honolulu,HI,96817,21.319372,-157.85779,"260 N. School St., C",550.0,1885,2
